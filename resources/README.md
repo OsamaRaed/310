@@ -26,7 +26,7 @@ The materials roughly break down into the 13 weeks of the standard academic seme
 	* [Introduction to Concurrency and Asynchronous Development: Part 2](http://www.youtube.com/watch?v=ZyiLFip7nqk)  
 	* [Introduction to Concurrency and Asynchronous Development: Part 3](http://www.youtube.com/watch?v=xwSUBY2tIm4)  
 
-## 1: Testing 1
+## 1: Testing 1 P1H2
 
 * Readings:
 	* [Testing](readings/Testing.md)
